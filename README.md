@@ -1,3 +1,8 @@
+* Основы Hadoop (архитектура BigData, HDFS, Yarn, Hive).
+* Spark (SparkSession, RDD, DataFrame, DataSet, UDF).
+* PostgreSQL (JDBC, перекосы, соль, Broadcast оптимизация джойнов).
+* Основы Airflow (интерфейс, операторы, коннектеры, XCom, Backfill и Catchup).
+
 # Скачать данные в папку data
 ```
 sudo docker-compose build download_habr_data
